@@ -2,7 +2,6 @@
 #!/bin/bash -x
 
 stakes=100
-day=0
 game=0
 function gamble(){
         while [[ $game -lt 1 ]]
@@ -12,4 +11,5 @@ function gamble(){
         done
 
    }
+   gamble
 
