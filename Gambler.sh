@@ -19,7 +19,7 @@ function gamble(){
       fi
   done
  }
-
+  gamble
 
 
 
