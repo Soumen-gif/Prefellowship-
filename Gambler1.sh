@@ -20,4 +20,4 @@ function gamble(){
          ((game++))
    done
 }
-
+gamble
